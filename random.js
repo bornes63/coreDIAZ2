@@ -5,3 +5,4 @@ var numero = Math.random();
  }
  else { console.log('\n' + numero + ' MAYOR que 0,5 \n');
  }
+ console.log('version2.0')
